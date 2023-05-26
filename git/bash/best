@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HD
-echo "Best School"
-=======
-echo "Best School"
->>>>>>> update_script
+echo_"Best School"
